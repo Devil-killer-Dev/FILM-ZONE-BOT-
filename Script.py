@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """🙋‍♂️ Hi {mention},
+    START_TXT = """🙋‍♂️ Hi {},
 
 🤖 I'm <a href='https://t.me/FilmZone_ROBot'>FilmZone_ROBot</a>
 
