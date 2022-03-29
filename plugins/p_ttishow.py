@@ -37,8 +37,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('📢 Updates', url='https://t.me/Hp_botupdate')
+            InlineKeyboardButton('🆘 Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+            InlineKeyboardButton('🔔 Updates', url='https://t.me/dltechnical')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -51,7 +51,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>Hey , {u.mention}, Welcome to {message.chat.title}</b>")
+            temp.MELCOW['welcome'] = await message.reply(f"<b>👋Hello {u.mention}, Welcome To {message.chat.title}. My Name Is FILM ZONE BOT 2.0 I Can Provide Movies In This Group. Just Type The Actual Name Of The Movie. You Will Get The Movie If You Write Correct Spelling. If You Don't Get The Movie It Is Sure That You Have Written Incorrect Spelling Or Your Requested Movie Does Not Exit In My Database.😊</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
