@@ -1,6 +1,15 @@
 class script(object):
-    START_TXT = """
- <a href='https://t.me/IMDB_HPBot'>IMDB_HPBot</a>, """
+    START_TXT = """🙋‍♂️ Hi {mention},
+
+🤖 I'm <a href='https://t.me/FilmZone_ROBot'>FilmZone_ROBot</a>
+
+👨‍💻 My Creator : <a href='https://t.me/hellodarklord'>ɖǟʀӄʟօʀɖ</a>
+
+💯 Here You Can Download Any Movies Or Web Series
+
+Do You Want To Join Group ⁉️
+
+Click Down Below Button 👇"""
     HELP_TXT = """👋𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: FILM ZONE BOT 2.0
@@ -11,8 +20,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Film Zone Bot is not a open source project. 
-- Source - Not Available
+- Film Zone Bot 2.0 is not a open source project. 
+🤐 Source - ❌ Not Available ❌
 
 <b>🧑‍💻 MY DEV:</b>
 - <a href= >ɖǟʀӄʟօʀɖ</a>"""
