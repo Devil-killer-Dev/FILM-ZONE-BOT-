@@ -10,8 +10,9 @@ class script(object):
 Do You Want To Join Group ⁉️
 
 Click Down Below Button 👇"""
-    HELP_TXT = """👋𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """Hello👋, {} 
+ 
+I Can Guide You Through All Of<a href='https://t.me/+WFE2IOCd2fkzYWI9'>Film Zone Bot</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: FILM ZONE BOT 2.0
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ɖǟʀӄʟօʀɖ
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -23,7 +24,7 @@ Click Down Below Button 👇"""
 - Film Zone Bot 2.0 is not a open source project. 
 🤐 Source - ❌ Not Available ❌
 
-<b>🧑‍💻 MY DEV:</b>
+<b>🧑‍💻 DEV - </b>
 - <a href= >ɖǟʀӄʟօʀɖ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
