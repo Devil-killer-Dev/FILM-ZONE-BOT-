@@ -10,9 +10,9 @@ class script(object):
 Do You Want To Join Group ⁉️
 
 Click Down Below Button 👇"""
-    HELP_TXT = """Hello👋, {} 
+    HELP_TXT = """Hello👋 {},
  
-I Can Guide You Through All Of<a href='https://t.me/+WFE2IOCd2fkzYWI9'>Film Zone Bot</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules."""
+I Can Guide You Through All Of <a href='https://t.me/+WFE2IOCd2fkzYWI9'>Film Zone Bot</a>'s Cool Features & How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: FILM ZONE BOT 2.0
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ɖǟʀӄʟօʀɖ
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
