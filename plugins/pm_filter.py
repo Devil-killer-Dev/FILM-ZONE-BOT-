@@ -374,7 +374,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('彡★ ꜰɪʟᴍ ᴢᴏɴᴇ 2.0 ★彡  ', url='https://t.me/+WFE2IOCd2fkzYWI9'),
+            InlineKeyboardButton('★彡[ꜰɪʟᴍ ᴢᴏɴᴇ 2.0]彡★', url='https://t.me/+WFE2IOCd2fkzYWI9'),
             ],[
             InlineKeyboardButton('📣 Updates Channel ', url='https://t.me/+N39H_-uakq1iNTI1')
             ],[
